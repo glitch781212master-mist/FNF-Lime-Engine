@@ -1,6 +1,3 @@
 # FNF-Lime-Engine
 
-Para Baixar, é necessário você Extrair a engine do arquivo Engine.bin, e para extrai-la é um prosseso bem facil
-
-
- vá ao arquivo Unpacker.exe, Execulte-o e vai abrir o setup, confire o paths Da Engine, e sua Engine já estará pronta pra uso.
+A primeira Engine De FNF Brasileira E que É 100% Desinvolvida No Java, E Pra Subistituir O Lime, Nós Criamos A Nossa Própria Lib, O Oran.ge, No Site De WIKI Da Engine, Colocaremos O Download Do Oran.ge.
