@@ -53,7 +53,7 @@ class ExemploScript extends Module
 2. **Uso do `super`:** Sempre chame as funções originais usando `super.nomeDaFuncao()` para garantir que o comportamento padrão do jogo não quebre.
 3. **Tipagem:** O Haxe aceita tipagem estática (ex: `elapsed:Float`), o que ajuda a evitar erros bobos de digitação e melhora a performance.
 
-Se você não conseguiu aprender (o que eu acho que provavelmente aconteceu) Não Esquenta, visite a nossa [WIKI]()e aprenda (De Verdade).
+Se você não conseguiu aprender o Haxe Scripted Class (o que eu acho que provavelmente aconteceu) Não Esquenta, visite a nossa [WIKI]()e aprenda (De Verdade).
 
 A lime engine foi feita no HaxeFlixel
 
