@@ -60,4 +60,4 @@ A lime engine foi feita no HaxeFlixel
 
 O Novo FNF V-slice também é legal, porque não [Joga](https://ninja-muffin24.itch.io/funkin/download/eyJpZCI6NzkyNzc4LCJleHBpcmVzIjoxNzg0MzMzMzU0fQ%3d%3d%2e939%2ffqMfdkGneiU%2fwR%2bVM74svoo%3d)?
 
-Lime Engine por [GlitchMaster](https://github.com/glitch781212master-mist) & [JoãoBanana](https://github.com/JoaoBanana78060-pao), Friday Night Funkin' por ninjamuffin99
+Lime Engine por [GlitchMaster](https://github.com/glitch781212master-mist) & [JoãoBanana](https://github.com/joao780601banana-bread), Friday Night Funkin' por ninjamuffin99
